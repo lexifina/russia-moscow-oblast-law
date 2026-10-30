@@ -1,0 +1,21 @@
+The law texts in this repository are official texts of Moscow Oblast (Московская область), Russian Federation,
+taken from the website of the Moscow Oblast Duma (Московская областная Дума), https://www.mosoblduma.ru/, its bank
+of laws of Moscow Oblast (consulted 2026-10-30).
+
+They are not protected by copyright. Гражданский кодекс Российской Федерации, статья 1259, пункт 6, подпункт 1:
+"Не являются объектами авторских прав: официальные документы государственных органов и органов местного
+самоуправления муниципальных образований, в том числе законы, другие нормативные акты, судебные решения, иные
+материалы законодательного, административного и судебного характера, ... а также их официальные переводы"
+(official documents of state bodies, including laws and other normative acts, are not objects of copyright).
+
+Source: Московская областная Дума, https://www.mosoblduma.ru/.
+
+This repository is not an official publication. The binding text is the one officially published on the Internet
+portal of the Government of Moscow Oblast (www.mosreg.ru), on the Official Internet Portal of Legal Information
+(www.pravo.gov.ru) or in the newspaper "Ежедневные Новости. Подмосковье". The Duma does not endorse this repository.
+
+Changes made by Lexifina: each law was converted to one Markdown file per article, one paragraph per line, with
+the HTML formatting, non-breaking spaces and runs of spaces removed. The wording was not otherwise changed.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

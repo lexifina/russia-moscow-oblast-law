@@ -1,0 +1,11 @@
+{
+  "path": "ru-mos",
+  "code": "RU-MOS",
+  "name": "Moscow Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-moscow-oblast-law",
+  "build": "built: laws of Moscow Oblast as enacted, from the Moscow Oblast Duma's bank of laws (never-amended laws only)",
+  "language": "ru",
+  "sources": 1
+}
