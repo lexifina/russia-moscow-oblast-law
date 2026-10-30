@@ -15,7 +15,7 @@ One folder per law of Moscow Oblast (`zakon-<year>-<number>/`, for Закон М
 - its in-force clause gives one day for the whole law (see Dates);
 - its text holds no tables.
 
-The Charter of Moscow Oblast (Устав Московской области) and every amended law are not included yet: no official consolidated text was reachable from the publishers' sites when this was built. The history therefore starts with the earliest included law and is not the whole law of the region.
+The Charter of Moscow Oblast (Устав Московской области) and every amended law are not included yet: no official consolidated text was found on the publishers' sites when this was built. The history therefore starts with the earliest included law and is not the whole law of the region.
 
 ## Source
 
