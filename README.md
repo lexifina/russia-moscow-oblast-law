@@ -1,5 +1,7 @@
 # Moscow Oblast: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Moscow Oblast, Russia, which global-law reads at `russia/moscow-oblast/acts/`.
+
 The law of Moscow Oblast (Московская область), a federal subject of the Russian Federation, as a git history: one file per article, one commit per law, dated the day it took effect. `git log` lists every law; checking out a date gives the texts in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ru-mos/`. The federal law of Russia is in [lexifina/russia-law](https://github.com/lexifina/russia-law).
